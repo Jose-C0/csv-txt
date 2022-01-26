@@ -1,0 +1,7 @@
+I:\Windows_10_ROG\TAREA UNI\LENGUAJE DE CUARTA GENERACION\2022_PRACTICAS\csv-txt\bin\Debug\csv-txt.exe
+I:\Windows_10_ROG\TAREA UNI\LENGUAJE DE CUARTA GENERACION\2022_PRACTICAS\csv-txt\bin\Debug\csv-txt.pdb
+I:\Windows_10_ROG\TAREA UNI\LENGUAJE DE CUARTA GENERACION\2022_PRACTICAS\csv-txt\obj\Debug\csv-txt.csprojAssemblyReference.cache
+I:\Windows_10_ROG\TAREA UNI\LENGUAJE DE CUARTA GENERACION\2022_PRACTICAS\csv-txt\obj\Debug\csv-txt.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\TAREA UNI\LENGUAJE DE CUARTA GENERACION\2022_PRACTICAS\csv-txt\obj\Debug\csv-txt.exe
+I:\Windows_10_ROG\TAREA UNI\LENGUAJE DE CUARTA GENERACION\2022_PRACTICAS\csv-txt\obj\Debug\csv-txt.pdb
+I:\Windows_10_ROG\TAREA UNI\LENGUAJE DE CUARTA GENERACION\2022_PRACTICAS\csv-txt\bin\Debug\csv-txt.exe.config
